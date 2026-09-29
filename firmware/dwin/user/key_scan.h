@@ -1,0 +1,9 @@
+#ifndef __KEY_SCAN_H__
+#define __KEY_SCAN_H__
+
+#include "sys.h"
+
+// ∞¥º¸…®√ËVP
+#define KEY_SCAN_VP     0xA000
+
+#endif

@@ -1,0 +1,49 @@
+# Keil user and build files
+*.uvopt
+*.uvoptx
+*.uvgui.*
+*.bak
+*.lst
+*.m51
+*.map
+*.plg
+*.lnp
+*.obj
+*.o
+*.axf
+*.elf
+*.crf
+*.sbr
+*.SBR
+*.build_log.htm
+*.htm
+*.html
+*.dep
+*.d
+*.i
+*.__i
+*._ia
+Target *.BAT
+*.log
+
+# Build directories (release artifacts tracked elsewhere)
+firmware/stc/outputs/
+firmware/dwin/obj/
+firmware/dwin/Listings/
+
+# Host-side tests
+*.exe
+
+# Editors and operating systems
+.vscode/
+.idea/
+.vs/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.building.*
+*~

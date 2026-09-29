@@ -1,0 +1,20 @@
+* text=auto
+
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.uvproj text eol=crlf
+*.hex binary
+
+*.LIB binary
+*.bin binary
+*.bmp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.icl binary
+*.tft binary
+*.hmi binary
+*.pdf binary
